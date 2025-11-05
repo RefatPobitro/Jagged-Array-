@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\OneDrive - American International University-Bangladesh\Desktop\c## codes\jageed array.sln\jageed array\bin\Debug\net8.0\jageed array.exe
+C:\Users\Lenovo\OneDrive\OneDrive - American International University-Bangladesh\Desktop\c## codes\jageed array.sln\jageed array\bin\Debug\net8.0\jageed array.deps.json
+C:\Users\Lenovo\OneDrive\OneDrive - American International University-Bangladesh\Desktop\c## codes\jageed array.sln\jageed array\bin\Debug\net8.0\jageed array.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\OneDrive - American International University-Bangladesh\Desktop\c## codes\jageed array.sln\jageed array\bin\Debug\net8.0\jageed array.dll
+C:\Users\Lenovo\OneDrive\OneDrive - American International University-Bangladesh\Desktop\c## codes\jageed array.sln\jageed array\bin\Debug\net8.0\jageed array.pdb
+C:\Users\Lenovo\OneDrive\OneDrive - American International University-Bangladesh\Desktop\c## codes\jageed array.sln\jageed array\obj\Debug\net8.0\jageed array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\OneDrive - American International University-Bangladesh\Desktop\c## codes\jageed array.sln\jageed array\obj\Debug\net8.0\jageed array.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\OneDrive - American International University-Bangladesh\Desktop\c## codes\jageed array.sln\jageed array\obj\Debug\net8.0\jageed array.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\OneDrive - American International University-Bangladesh\Desktop\c## codes\jageed array.sln\jageed array\obj\Debug\net8.0\jageed array.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\OneDrive - American International University-Bangladesh\Desktop\c## codes\jageed array.sln\jageed array\obj\Debug\net8.0\jageed array.dll
+C:\Users\Lenovo\OneDrive\OneDrive - American International University-Bangladesh\Desktop\c## codes\jageed array.sln\jageed array\obj\Debug\net8.0\refint\jageed array.dll
+C:\Users\Lenovo\OneDrive\OneDrive - American International University-Bangladesh\Desktop\c## codes\jageed array.sln\jageed array\obj\Debug\net8.0\jageed array.pdb
+C:\Users\Lenovo\OneDrive\OneDrive - American International University-Bangladesh\Desktop\c## codes\jageed array.sln\jageed array\obj\Debug\net8.0\jageed array.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\OneDrive - American International University-Bangladesh\Desktop\c## codes\jageed array.sln\jageed array\obj\Debug\net8.0\ref\jageed array.dll
